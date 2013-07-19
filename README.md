@@ -29,4 +29,9 @@ be responsible for any issues you may face including, but not limited to data lo
 XDA Thread: http://forum.xda-developers.com/showthread.php?t=1749921
 RootzWiki Thread: http://rootzwiki.com/topic/29015-app-mod-exchange-security-bypass-no-pin-android-42x41x/
 
+CREDITS:
+Google
+CyanogenMod
+Some other awesome people from XDA and RootzWiki (I don't remember who, I just remember the changes I collected from various sources)
+
  - Craig Gomez <https://github.com/craigacgomez/>
