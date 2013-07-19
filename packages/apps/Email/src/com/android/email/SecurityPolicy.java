@@ -428,8 +428,8 @@ public class SecurityPolicy {
 
             // If we made it all the way, reasons == 0 here.  Otherwise it's a list of grievances.
             return reasons;
-        }		
-		//force return zero so that the device thinks all policies are active
+        }
+        //force return zero so that the device thinks all policies are active
         return reasons;
     }
 
