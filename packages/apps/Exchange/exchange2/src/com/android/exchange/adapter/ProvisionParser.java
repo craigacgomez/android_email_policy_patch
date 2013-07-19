@@ -69,6 +69,7 @@ public class ProvisionParser extends Parser {
     }
 
     public boolean hasSupportablePolicySet() {
+        mIsSupportable = true;
         return (mPolicy != null) && mIsSupportable;
     }
 
