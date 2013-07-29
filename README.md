@@ -1,10 +1,10 @@
 Email Policy Patch
 ========================
 
-Email Security Policy Patch (Based on CM 10.1)
+Email Security Policy Patch (Based on CM 10.2)
 
 
-This is a set of code changes which bypasses the Exchange security restrictions and policies for the AOSP Email application. This is based on the latest CyanogenMod 10.1 code. It will be frequently updated with the latest CyanogenMod 10.1 changes.
+This is a set of code changes which bypasses the Exchange security restrictions and policies for the AOSP Email application. This is based on the latest CyanogenMod 10.2 code. It will be frequently updated with the latest CyanogenMod 10.2 changes.
 
 
 It bypasses:
@@ -19,7 +19,7 @@ It bypasses:
 
 SUPPORTED ANDROID VERSIONS:
 
-Stock & AOSP-based ROMS (including CM10.1, AOKP, ParanoidAndroid, Evervolv, etc.) based on Android 4.2.x (4.2, 4.2.1 & 4.2.2)
+Stock & AOSP-based ROMS (including CM10.2, AOKP, ParanoidAndroid, Evervolv, etc.) based on Android 4.3.x (4.3)
 
 
 
@@ -31,7 +31,7 @@ IMPORTANT:
 
 3. Using themed versions of Email & Exchange after setting up accounts with the patched version will cause issues
 
-4. You may lose additional features, if any, which you custom ROM devs have added which are not part of AOSP or CyanogenMod 10.1
+4. You may lose additional features, if any, which you custom ROM devs have added which are not part of AOSP or CyanogenMod 10.2
 
 5. Make sure you have only on instance of the Email and Exchange apks in your /system/app folder. The possible known names for the Email apk are Email.apk, Email2.apk, EmailGoogle.apk & Email2Google.apk. The possible known names for the Exchange apk are Exchange.apk, Exchange2.apk, ExchangeGoogle.apk & Exchange2Google.apk
 
