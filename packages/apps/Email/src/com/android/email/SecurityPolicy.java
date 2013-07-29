@@ -427,10 +427,13 @@ public class SecurityPolicy {
             // no check required for remote wipe (it's supported, if we're the admin)
 
             // If we made it all the way, reasons == 0 here.  Otherwise it's a list of grievances.
+            // force return zero so that the device thinks all policies are active
+            reasons = 0;
             return reasons;
         }
-        // return false, not active
-        return INACTIVE_NEED_ACTIVATION;
+        // force return zero so that the device thinks all policies are active
+        reasons = 0;
+        return reasons;
     }
 
     /**
