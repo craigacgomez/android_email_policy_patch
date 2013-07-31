@@ -465,4 +465,14 @@
     <string name="search_slow_warning_message" msgid="8494483410797387903">"Alcuni server possono richiedere molto tempo."</string>
     <string name="action_bar_mailbox_list_title" msgid="7484457755531286333">"Cartelle"</string>
     <string name="require_manual_sync_message" msgid="7777357288642785955">"Sincronizzazione dello sfondo per questo account disattivata durante il roaming."</string>
+
+    <!-- CUSTOM STRINGS -->
+    <string name="message_compose_attachment_no_size">File vuoto.</string>
+    <string name="account_setup_options_mail_check_frequency_2hour">Ogni 2 ore</string>
+    <string name="account_setup_options_mail_check_frequency_4hour">Ogni 4 ore</string>
+    <string name="account_setup_options_mail_check_frequency_1day">Ogni giorno</string>
+    <string name="account_settings_notify_light_label">Usa LED di notifica</string>
+    <string name="category_general_security_preferences">Sicurezza</string>
+    <string name="security_preferences_blocked_attachment_extensions_title">Allegati bloccati</string>
+    <string name="security_preferences_blocked_attachment_extensions_summary">Seleziona i tipi di allegati per i quali sono bloccati la visualizzazione e il salvataggio</string>
 </resources>

@@ -465,4 +465,27 @@
     <string name="search_slow_warning_message" msgid="8494483410797387903">"有些伺服器可能需要較長的時間。"</string>
     <string name="action_bar_mailbox_list_title" msgid="7484457755531286333">"資料夾"</string>
     <string name="require_manual_sync_message" msgid="7777357288642785955">"系統會在漫遊時停用這個帳戶的背景同步處理。"</string>
+
+    <!-- CUSTOM STRINGS -->
+    <!-- Toast that appears when an attachment has no size. -->
+    <string name="message_compose_attachment_no_size">空的檔案。</string>
+
+    <!-- In Account setup options & Account Settings screens, email check frequency option -->
+    <string name="account_setup_options_mail_check_frequency_2hour">每2小時</string>
+    <!-- In Account setup options & Account Settings screens, email check frequency option -->
+    <string name="account_setup_options_mail_check_frequency_4hour">每4小時</string>
+    <!-- In Account setup options & Account Settings screens, email check frequency option -->
+    <string name="account_setup_options_mail_check_frequency_1day">每天</string>
+
+    <string name="account_settings_notify_light_label">使用指示燈通知</string>
+
+    <!-- First category in general security preferences -->
+    <string name="category_general_security_preferences">安全性</string>
+
+    <!-- Security preference: The title of the setting with the list of blocked
+         attachment extensions" -->
+    <string name="security_preferences_blocked_attachment_extensions_title">被封鎖的附件</string>
+    <!-- Security preference: The summary of the setting with the list of blocked
+         attachment extensions" -->
+    <string name="security_preferences_blocked_attachment_extensions_summary">選擇將被封鎖檢視或儲存的附件類型</string>
 </resources>

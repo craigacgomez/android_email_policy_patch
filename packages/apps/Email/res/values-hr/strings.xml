@@ -465,4 +465,10 @@
     <string name="search_slow_warning_message" msgid="8494483410797387903">"Nekim poslužiteljima može trebati više vremena."</string>
     <string name="action_bar_mailbox_list_title" msgid="7484457755531286333">"Mape"</string>
     <string name="require_manual_sync_message" msgid="7777357288642785955">"Pozadinska sinkronizacija za ovaj račun onemogućena je u roamingu."</string>
+
+    <!-- CUSTOM STRING -->
+    <string name="account_setup_options_mail_check_frequency_2hour">Svaka 2 sata</string>
+    <string name="account_setup_options_mail_check_frequency_4hour">Svaka 4 sata</string>
+    <string name="account_setup_options_mail_check_frequency_1day">Svaki dan</string>
+    <string name="account_settings_notify_light_label">Koristi obavijesnu LED-icu</string>
 </resources>

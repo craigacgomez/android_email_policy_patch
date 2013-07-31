@@ -465,4 +465,14 @@
     <string name="search_slow_warning_message" msgid="8494483410797387903">"Nogle servere kan være langsomme."</string>
     <string name="action_bar_mailbox_list_title" msgid="7484457755531286333">"Mapper"</string>
     <string name="require_manual_sync_message" msgid="7777357288642785955">"Baggrundssynkronisering for denne konto deaktiveres under roaming."</string>
+
+    <!-- CUSTOM STRING -->
+    <string name="message_compose_attachment_no_size">Tom fil.</string>
+    <string name="account_setup_options_mail_check_frequency_2hour">Hver 2. time</string>
+    <string name="account_setup_options_mail_check_frequency_4hour">Hver 4. time</string>
+    <string name="account_setup_options_mail_check_frequency_1day">Hver dag</string>
+    <string name="account_settings_notify_light_label">Brug notifikations-LED</string>
+    <string name="category_general_security_preferences">Sikkerhed</string>
+    <string name="security_preferences_blocked_attachment_extensions_title">Blokerede vedhæftninger</string>
+    <string name="security_preferences_blocked_attachment_extensions_summary">Vælg vedhæftningstyperne, som er blokeret fra visning og gemning</string>
 </resources>

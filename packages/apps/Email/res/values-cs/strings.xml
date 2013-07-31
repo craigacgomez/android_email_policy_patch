@@ -465,4 +465,18 @@
     <string name="search_slow_warning_message" msgid="8494483410797387903">"Některým serverům může tento proces trvat dlouho."</string>
     <string name="action_bar_mailbox_list_title" msgid="7484457755531286333">"Složky"</string>
     <string name="require_manual_sync_message" msgid="7777357288642785955">"Synchronizace na pozadí je v tomto účtu při roamingu zakázána."</string>
+
+    <!-- CUSTOM STRINGS -->
+    <string name="message_compose_attachment_no_size">Prázdný soubor.</string>
+
+    <string name="account_setup_options_mail_check_frequency_2hour">Každé 2 hodiny</string>
+    <string name="account_setup_options_mail_check_frequency_4hour">Každé 4 hodiny</string>
+    <string name="account_setup_options_mail_check_frequency_1day">Každý den</string>
+
+    <string name="account_settings_notify_light_label">Upozornění pomocí LED</string>
+
+    <string name="category_general_security_preferences">Zabezpečení</string>
+
+    <string name="security_preferences_blocked_attachment_extensions_title">Blokování příloh</string>
+    <string name="security_preferences_blocked_attachment_extensions_summary">Zvolte typy příloh, které nebude možné zobrazit nebo uložit</strin
 </resources>

@@ -465,4 +465,14 @@
     <string name="search_slow_warning_message" msgid="8494483410797387903">"Egyes szervereknek több időre van szükségük."</string>
     <string name="action_bar_mailbox_list_title" msgid="7484457755531286333">"Mappák"</string>
     <string name="require_manual_sync_message" msgid="7777357288642785955">"A fiók háttérben zajló szinkronizálása le van tiltva barangolás közben."</string>
+
+    <!-- CUSTOM STRINGS -->
+    <string name="message_compose_attachment_no_size">A csatolni kívánt fájl üres.</string>
+    <string name="account_setup_options_mail_check_frequency_1day">Naponta</string>
+    <string name="account_setup_options_mail_check_frequency_2hour">2 óránként</string>
+    <string name="account_setup_options_mail_check_frequency_4hour">4 óránként</string>
+    <string name="account_settings_notify_light_label">LED értesítés</string>
+    <string name="category_general_security_preferences">Biztonság</string>
+    <string name="security_preferences_blocked_attachment_extensions_title">Blokkolt mellékletek</string>
+    <string name="security_preferences_blocked_attachment_extensions_summary">Válassza ki azokat a melléklet típusokat, melyek megtekintését vagy mentését blokkolni kívánja</string>
 </resources>
